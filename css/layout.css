@@ -1,6 +1,6 @@
 /* index.html */
 #page1 .col-1 {
-	width:660px;
+	width:360px;
 	margin-right:65px
 }
 #page1 .col-2 {
@@ -24,7 +24,7 @@
 }
 /* index-1.html */
 #page2 .col-1 {
-	width:660px;
+	width:360px;
 	margin-right:65px
 }
 #page2 .col-2 {
@@ -39,7 +39,7 @@
 }
 /* index-2.html */
 #page3 .col-1 {
-	width:660px;
+	width:360px;
 	margin-right:65px
 }
 #page3 .col-2 {
